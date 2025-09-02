@@ -47,8 +47,8 @@ A modern, responsive web app for adding and browsing schools. Built with [Next.j
    npm run dev
    ```
 
-6. **Open in browser:**
-   - Visit [http://localhost:3000](http://localhost:3000)
+6. ## 🚀 Live Demo
+👉 [Click here to view SchoolHub](https://myschoolhub.vercel.app)
 
 ## 🖼️ Screenshots
 
