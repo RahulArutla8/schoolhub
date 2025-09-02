@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #__next {
+  height: 100%;
+}
+
+:root {
+  color-scheme: light dark;
+}
+
+body {
+  @apply font-sans bg-gray-50 dark:bg-gray-900 text-gray-900 dark:text-gray-100;
+}
+
+.container-nice {
+  @apply max-w-6xl mx-auto px-4 sm:px-6 lg:px-8;
+}
+
+select, option {
+  color: black !important;
+  background-color: white !important;
+}
